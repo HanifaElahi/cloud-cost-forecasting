@@ -56,6 +56,7 @@ The total cost stays the same in this example. The cost per user falls because t
 - The data was allowed to override the intuition: "more users, more cost" seemed reasonable, but the history showed otherwise.
 - The forecast was built around how the cost actually behaves, so it shows when the larger cost increases happen rather than a line drifting up.
 
-## Data
+--- 
+## Data & confidentiality
 
-**No real data is used in this case study.** The dataset is fully synthetic — the numbers are invented, and only the *pattern* of cost behaviour is designed to be realistic. It is not based on any company's actual data or cloud bill.
+*The dataset here is fully synthetic — built specifically for this case study to show the method. The numbers are invented; only the shape of the cost behaviour is meant to be realistic. Nothing here is based on any real company's data or cloud bill.*
