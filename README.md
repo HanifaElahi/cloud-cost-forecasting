@@ -32,7 +32,7 @@ I built the forecast around this behaviour: it works out how much infrastructure
 
 ![How the cost is worked out](assets/0_method_flow.png)
 
-The detailed methodology is in [**model/method.md**](model/method.md).
+The detailed methodology is [*here*](model/method.md).
 
 ## Cost per user
 
